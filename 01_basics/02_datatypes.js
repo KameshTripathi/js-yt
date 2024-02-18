@@ -22,9 +22,9 @@ BigInt: An integer with arbitrary precision.
 let name = "Kamesh"
 let age = 22
 let isLoggedIn = true
-let state
+let state;
 
-console.log(typeof "Tripathi");
-console.log(typeof age);
-console.log(typeof undefined);
-console.log(typeof null);
+console.log(typeof "Tripathi")
+console.log(typeof age)
+console.log(typeof undefined)
+console.log(typeof null)
