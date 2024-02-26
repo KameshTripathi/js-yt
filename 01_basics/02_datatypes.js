@@ -8,7 +8,7 @@ console.log(3
 // tc39.es and mdn can be referred to for specifications.
 
 /* 
-Datatypes are primitives: Undefined, Null, Boolean, String, Symbol, Number, BigInt and non-primitives: Array, Object, Function. Primitives are call by value while non-primitives are call by reference.
+Datatypes are primitives: Undefined, Null, Boolean, String, Symbol, Number, BigInt and non-primitives: Array, Object, Function. Primitives are call by value while non-primitives are call by reference value.
 The Undefined type has exactly one value, called undefined. Any variable that has not been assigned a value has the value undefined.
 The Null type has exactly one value, called null.
 undefined indicates the absence of a value, while null indicates the absence of an object (which could also make up an excuse for typeof null === "object").
